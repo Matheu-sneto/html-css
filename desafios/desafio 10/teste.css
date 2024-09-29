@@ -1,0 +1,112 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'idroid';
+    src: url('fontes/idroid.otf');
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kaushan+Script&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    background-color: #89CDA5;
+}
+header{
+    background-image: linear-gradient( to bottom, #50AC70, #1A5A37);
+    height: 150px;
+}
+
+h1{
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 32px;
+    text-align: center;
+}
+h2#pri{
+    background: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: lighter;
+    font-size: 16px;
+    text-align: center;
+}
+div{
+    background-color: white;
+    width: 1000px;
+    margin: auto;
+    padding: 10px;
+}
+h1#sec{
+    font-family: 'idroid', sans-serif;
+    font-weight: normal;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 32px;
+    color: #1A5A37;
+    text-shadow:1px 1px 3px black;
+
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 2.0;
+    text-indent: 30px;
+    padding: 3px;
+}
+h2{
+    background-image: linear-gradient(to right, #8CCEA7, #F0F9F4);
+    padding: 3px;
+    border-radius: 12px;
+    font-family: 'idroid', sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-size: 24px;
+    text-align: left;
+    text-shadow: 1px 1px 3px black;
+    color: #1A5A37;
+
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #1A5A37;
+}
+a:hover{
+    background-color: #1A5A37;
+    color: white;
+}
+strong{
+    font-weight: 600;
+    text-shadow: 0.5px 0.5px 3px black;
+    color: #1A5A37;
+}
+img#central{
+    display: block;
+    margin: 0 auto;
+}
+iframe{
+    width: 1000;
+    height: 500;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+div#dois{
+    width: 965px;
+    background-color: #C5EBD6;
+    padding-top: 2px;
+}
+h3{
+    width: 955px;
+    background-color: #2FA866;
+    color: white;
+    border: 5px;
+
+}
+ul{
+    columns: 2;
+    list-style-type: none;
+    text-decoration: unset;
+}

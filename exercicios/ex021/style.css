@@ -1,0 +1,35 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(129, 129, 129);
+}
+h1{
+    background-color: white;
+    width: 600px;
+    margin: 10px;
+    border-radius: 10px;
+}
+main{
+    background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+    width: 600px;
+    box-shadow: 2px 2px 4px 1px black;
+}
+p#ultimo{
+    background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+    width: 600px;
+}
+
+nav{
+    background-color: white;
+    margin: 10px;
+    padding: 12px;
+    width: 580px;
+    border-radius: 10px;
+}
+a:hover{
+    text-decoration:underline;
+    color: green;
+}

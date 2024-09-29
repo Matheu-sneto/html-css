@@ -1,0 +1,13 @@
+harmonização de cores
+círculo cromático
+Uma paleta tem de 3 a 5 cores no máximo
+cores análogas: pouco contraste vizinhas
+cores complementares: muito contraste é a cor oposta no circulo cromático
+cores análogas relacionadas: pega duas cores vizinhas e pula uma depois para pegar a terceira
+cores intercaladas: pega uma cor e pula outra, no total de três ou 5
+cores triádicas: pega uma cor pula três ate um total de 3 cores selecionadas
+cores em quadrado: pega uma cor e pula duas cores 
+cores tetradica: escolhe uma cor e pega sua complementar escolher outra cor e sua complementar
+monocromia(degradê): pega uma cor e modifica sua saturação e o brilho usando hsl 
+
+TIPOGRAFIA CSS
